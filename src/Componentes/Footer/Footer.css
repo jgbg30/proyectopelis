@@ -1,0 +1,10 @@
+.Footer{
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(46,46,46,1) 100%);
+    text-align: center;
+    height: 10%;
+    color: black;
+    font-weight: bolder;
+    padding-top: 1%;
+    padding-bottom: 1%;
+}

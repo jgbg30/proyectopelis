@@ -1,0 +1,23 @@
+.cardcorazon{
+    border: none;
+    background-color: transparent;
+    
+}
+
+.cardcorazon:hover{
+    color: rgb(201, 16, 16);
+}
+
+.card-uno{
+    color: black;
+    text-decoration: none;
+} 
+
+.card-uno:hover{
+    color: rgb(201, 16, 16);
+}
+
+.firstItem{
+    font-weight: bold;
+    text-align: justify;
+}
